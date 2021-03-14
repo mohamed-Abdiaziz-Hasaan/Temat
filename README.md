@@ -1,0 +1,2 @@
+# Temat
+Automatic Text Summarizer
